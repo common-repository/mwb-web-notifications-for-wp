@@ -1,0 +1,17 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ .simple-notification-type {
+     padding: 10px;
+     box-shadow: 0 5px 5px 5px rgb(0 0 0 / 30%);
+     display: flex;
+     flex-wrap: nowrap;
+     }
+     span.notification-content {
+     padding: 0 15px;
+     flex: 1;
+     }
+     .mwb-cross {
+     cursor: pointer;
+     }
